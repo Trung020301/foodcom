@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/foodcom/static/js/main.ec9e17b5.js",
+    "index.html": "/foodcom/index.html",
+    "main.ec9e17b5.js.map": "/foodcom/static/js/main.ec9e17b5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ec9e17b5.js"
+  ]
+}
